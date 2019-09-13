@@ -1,0 +1,60 @@
+1
+ESCREVA - Digite um número 
+leia num
+conta = 3x num
+ESCREVA conta
+
+
+
+2
+Escreva - Digite o preço do produto
+leia preco
+Escreva - Digite o valor do desconto
+leia desc
+conta = ((desc/100) x num)) + num
+Escreva - cont
+
+
+
+3
+Escreva - Digite o valor do salário fixo
+leia sfixo
+Escreva - Digite o total das vendas
+leia tvenda
+conta = (0.5 x tvenda) + sfixo 
+Escreva - Seu salário este mês será conta
+
+
+4
+Escreva - Digite valor em real
+leia real
+Escreva - Digite valor da cotação do dólar
+leia cotacao
+dol = (cotacao * real)
+Escreva - O valor em dólar é
+
+
+5
+Escreva - Digite o nome do vendedor
+leia vendedor
+Escreva - Digite o salário fixo
+leia sfixo
+Escreva - Digite o total das vendas efetuadas em dinheiro
+leia tvenda
+sfinal = (0.10 * tvenda) + sfixo
+Escreva - "O nome do vendedor é " + vendedor + "seu salário fixo é "
++ sfixo + "e o salário final do mês é " + sfinal
+
+6
+Escreva - Digite seu salário fixo
+leia sfixo
+Escreva - Digite o valor da dívida
+leia divida
+sobra = sfixo - divida
+Escreva 
+
+7
+Escreva - Digite a quantidade de passageiros
+leia passageiros
+total = passageiros * 4.30
+Escreva - "A quantidade de passageiros que entraram no ônibus hoje são " + total
