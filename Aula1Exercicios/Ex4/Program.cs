@@ -11,7 +11,7 @@ namespace Ex4
             real = float.Parse(Console.ReadLine());
             Console.WriteLine("Digite a cotação do dólar");
             cotacao = float.Parse(Console.ReadLine());
-            dol = ( cotacao * real);
+            dol = ( real/ cotacao);
             Console.WriteLine("O valor em dólar é " +  dol);
         }
     }
