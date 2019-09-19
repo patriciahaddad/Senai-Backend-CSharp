@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\bin\Debug\netcoreapp2.2\aula_repeticacao_lacos.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\bin\Debug\netcoreapp2.2\aula_repeticacao_lacos.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\bin\Debug\netcoreapp2.2\aula_repeticacao_lacos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\bin\Debug\netcoreapp2.2\aula_repeticacao_lacos.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\bin\Debug\netcoreapp2.2\aula_repeticacao_lacos.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula3\aula_repeticacao_lacos\obj\Debug\netcoreapp2.2\aula_repeticacao_lacos.pdb
