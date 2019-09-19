@@ -1,11 +1,9 @@
 ﻿using System;
 
-namespace aula_repeticacao_lacos
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace aula_repeticacao_lacos {
+    class Program {
+        static void Main (string[] args) {
+
             // //LAÇO CONTADO - FOR (define a variável contadora e suas condições) - incremento (+)
             for(int cont1 = 1; cont1 <= 100; cont1 ++){
 
@@ -15,7 +13,6 @@ namespace aula_repeticacao_lacos
 
                     Console.WriteLine("FOR 0-100 " + cont1);
             }
-
             }
            
             // //LAÇO CONTADO - FOR - DECREMENTO (-)
@@ -47,10 +44,21 @@ namespace aula_repeticacao_lacos
 
             Console.WriteLine("Média das notas: " + (acumuladora/cont3));
 
+            int cont = 1;
+            int acumulador = 0;
+            int nota4;
 
+            do { //começa no ponto 0, não preciso declarar nenhuma informação para começar - só declaro no while que é o ponto que eu quero que ele pare
+                Console.WriteLine ("Digite a nota do aluno: ");
+                nota4 = int.Parse (Console.ReadLine ()); 
 
+                if (nota4 % 3 == 0) { //declarar se o número é múltiplo de 3
+                    acumulador = acumulador + nota4;
+                }
+                cont ++; //chamar o próximo ciclo
             }
-
-            } 
-
+            while (cont <= 20); //definir a parada do laço
+            Console.WriteLine ("A soma dos números múltiplos de 3 é:" + acumulador);
         }
+    }
+}
