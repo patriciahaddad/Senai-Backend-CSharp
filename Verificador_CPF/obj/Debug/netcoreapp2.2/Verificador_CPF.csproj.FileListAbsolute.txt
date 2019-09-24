@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\bin\Debug\netcoreapp2.2\Verificador_CPF.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\bin\Debug\netcoreapp2.2\Verificador_CPF.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\bin\Debug\netcoreapp2.2\Verificador_CPF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\bin\Debug\netcoreapp2.2\Verificador_CPF.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\bin\Debug\netcoreapp2.2\Verificador_CPF.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CPF\obj\Debug\netcoreapp2.2\Verificador_CPF.pdb
