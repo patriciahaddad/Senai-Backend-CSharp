@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\bin\Debug\netcoreapp2.2\hortiftui.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\bin\Debug\netcoreapp2.2\hortiftui.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\bin\Debug\netcoreapp2.2\hortiftui.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\bin\Debug\netcoreapp2.2\hortiftui.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\bin\Debug\netcoreapp2.2\hortiftui.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula2\hortiftui\obj\Debug\netcoreapp2.2\hortiftui.pdb
