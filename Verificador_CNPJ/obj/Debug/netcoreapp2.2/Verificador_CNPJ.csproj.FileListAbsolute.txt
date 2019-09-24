@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\bin\Debug\netcoreapp2.2\Verificador_CNPJ.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\bin\Debug\netcoreapp2.2\Verificador_CNPJ.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\bin\Debug\netcoreapp2.2\Verificador_CNPJ.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\bin\Debug\netcoreapp2.2\Verificador_CNPJ.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\bin\Debug\netcoreapp2.2\Verificador_CNPJ.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Verificador_CNPJ\obj\Debug\netcoreapp2.2\Verificador_CNPJ.pdb
