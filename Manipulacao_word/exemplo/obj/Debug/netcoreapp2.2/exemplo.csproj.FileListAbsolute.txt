@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\bin\Debug\netcoreapp2.2\exemplo.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\bin\Debug\netcoreapp2.2\exemplo.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\bin\Debug\netcoreapp2.2\exemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\bin\Debug\netcoreapp2.2\exemplo.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\bin\Debug\netcoreapp2.2\exemplo.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Manipulacao_word\exemplo\obj\Debug\netcoreapp2.2\exemplo.pdb
