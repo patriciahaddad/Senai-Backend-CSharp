@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\bin\Debug\netcoreapp2.2\Aula7_try_catch.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\bin\Debug\netcoreapp2.2\Aula7_try_catch.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\bin\Debug\netcoreapp2.2\Aula7_try_catch.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\bin\Debug\netcoreapp2.2\Aula7_try_catch.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\bin\Debug\netcoreapp2.2\Aula7_try_catch.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula7_try_catch\obj\Debug\netcoreapp2.2\Aula7_try_catch.pdb
